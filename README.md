@@ -1,7 +1,6 @@
 # CTFonly
 
 
-# CTFonly
 
 Security Engineer Profile — DevSecOps, CI/CD, AI agents.
 
